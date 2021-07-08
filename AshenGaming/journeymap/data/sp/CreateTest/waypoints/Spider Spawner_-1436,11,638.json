@@ -1,0 +1,18 @@
+{
+  "id": "Spider Spawner_-1436,11,638",
+  "name": "Spider Spawner",
+  "icon": "waypoint-normal.png",
+  "x": -1436,
+  "y": 11,
+  "z": 638,
+  "r": 47,
+  "g": 152,
+  "b": 203,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

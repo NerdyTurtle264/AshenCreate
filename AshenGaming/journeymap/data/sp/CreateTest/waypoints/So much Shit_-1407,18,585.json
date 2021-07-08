@@ -1,0 +1,18 @@
+{
+  "id": "So much Shit_-1407,18,585",
+  "name": "So much Shit",
+  "icon": "waypoint-normal.png",
+  "x": -1407,
+  "y": 18,
+  "z": 585,
+  "r": 212,
+  "g": 152,
+  "b": 21,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

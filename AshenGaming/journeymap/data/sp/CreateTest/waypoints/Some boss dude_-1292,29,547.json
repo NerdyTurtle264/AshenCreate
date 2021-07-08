@@ -1,0 +1,18 @@
+{
+  "id": "Some boss dude_-1292,29,547",
+  "name": "Some boss dude",
+  "icon": "waypoint-normal.png",
+  "x": -1292,
+  "y": 29,
+  "z": 547,
+  "r": 6,
+  "g": 233,
+  "b": 43,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

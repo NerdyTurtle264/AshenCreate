@@ -1,0 +1,18 @@
+{
+  "id": "Some Extra Loot_-732,63,-1127",
+  "name": "Some Extra Loot",
+  "icon": "waypoint-normal.png",
+  "x": -732,
+  "y": 63,
+  "z": -1127,
+  "r": 192,
+  "g": 248,
+  "b": 188,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

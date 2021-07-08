@@ -1,0 +1,18 @@
+{
+  "id": "Needs lit up_-1255,39,489",
+  "name": "Needs lit up",
+  "icon": "waypoint-normal.png",
+  "x": -1255,
+  "y": 39,
+  "z": 489,
+  "r": 209,
+  "g": 194,
+  "b": 102,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

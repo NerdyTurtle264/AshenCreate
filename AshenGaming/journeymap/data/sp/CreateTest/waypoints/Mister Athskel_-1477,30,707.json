@@ -1,0 +1,18 @@
+{
+  "id": "Mister Athskel_-1477,30,707",
+  "name": "Mister Athskel",
+  "icon": "waypoint-normal.png",
+  "x": -1477,
+  "y": 30,
+  "z": 707,
+  "r": 241,
+  "g": 124,
+  "b": 4,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

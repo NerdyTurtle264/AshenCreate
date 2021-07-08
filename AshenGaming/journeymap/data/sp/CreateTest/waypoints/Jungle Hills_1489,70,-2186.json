@@ -1,0 +1,18 @@
+{
+  "id": "Jungle Hills_1489,70,-2186",
+  "name": "Jungle Hills",
+  "icon": "waypoint-normal.png",
+  "x": 1489,
+  "y": 70,
+  "z": -2186,
+  "r": 11,
+  "g": 241,
+  "b": 120,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

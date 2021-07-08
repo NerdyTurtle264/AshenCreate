@@ -1,0 +1,18 @@
+{
+  "id": "Loot_-1342,23,417",
+  "name": "Loot",
+  "icon": "waypoint-normal.png",
+  "x": -1342,
+  "y": 23,
+  "z": 417,
+  "r": 191,
+  "g": 56,
+  "b": 174,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

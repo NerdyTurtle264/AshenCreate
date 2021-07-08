@@ -1,0 +1,18 @@
+{
+  "id": "Cave Spider Spawner_-1456,44,660",
+  "name": "Cave Spider Spawner",
+  "icon": "waypoint-normal.png",
+  "x": -1456,
+  "y": 44,
+  "z": 660,
+  "r": 139,
+  "g": 230,
+  "b": 187,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

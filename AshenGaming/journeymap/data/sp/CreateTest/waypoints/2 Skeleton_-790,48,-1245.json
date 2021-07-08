@@ -1,0 +1,18 @@
+{
+  "id": "2 Skeleton_-790,48,-1245",
+  "name": "2 Skeleton",
+  "icon": "waypoint-normal.png",
+  "x": -790,
+  "y": 48,
+  "z": -1245,
+  "r": 139,
+  "g": 110,
+  "b": 197,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

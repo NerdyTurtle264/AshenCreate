@@ -1,0 +1,18 @@
+{
+  "id": "Modified Jungle_1151,69,-2603",
+  "name": "Modified Jungle",
+  "icon": "waypoint-normal.png",
+  "x": 1151,
+  "y": 69,
+  "z": -2603,
+  "r": 220,
+  "g": 31,
+  "b": 13,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

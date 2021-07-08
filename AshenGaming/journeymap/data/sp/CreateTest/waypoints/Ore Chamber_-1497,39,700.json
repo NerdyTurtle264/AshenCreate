@@ -1,0 +1,18 @@
+{
+  "id": "Ore Chamber_-1497,39,700",
+  "name": "Ore Chamber",
+  "icon": "waypoint-normal.png",
+  "x": -1497,
+  "y": 39,
+  "z": 700,
+  "r": 239,
+  "g": 74,
+  "b": 17,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

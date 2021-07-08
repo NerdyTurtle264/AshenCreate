@@ -1,0 +1,18 @@
+{
+  "id": "Acacia Village_-301,82,-1176",
+  "name": "Acacia Village",
+  "icon": "waypoint-normal.png",
+  "x": -301,
+  "y": 82,
+  "z": -1176,
+  "r": 255,
+  "g": 0,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Quary_-375,82,-967",
+  "name": "Quary",
+  "icon": "waypoint-normal.png",
+  "x": -375,
+  "y": 82,
+  "z": -967,
+  "r": 0,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "overworld"
+  ],
+  "persistent": true
+}
